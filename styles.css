@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #D8E2DC;
+}
+
+h1 {
+    text-align: center;
+    background-color: #F4ACB7;
+}
+
+h2 {
+    background-color: #FFCAD4;
+}
+
+h3 {
+    background-color: #FFCAD4;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+.anchor {
+    font-weight: bolder;
+    font-size: larger;
+    color: darkorchid;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+.unordlist.home {
+    font-weight: bolder;
+    text-align: center;
+    list-style-position: inside;
+    font-size: x-large;
+    color: #D8E2DC;
+}
